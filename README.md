@@ -1,6 +1,12 @@
 # aif_to_mid
 A  file carving tool to extract embedded midi from another file
 
+## disclaimer
+This was an afternoon project born of frustration with Apple's proprietarianism. (yes I made that word up) This
+code has not been rigorously tested and has not been maintained since I put it up here. It's my first 
+attempt at writing a file carver so please set expectations accordingly. I'm happy to revisit this code 
+provided meaningful feedback is given. 
+
 ## introduction
 Once upon a time, one could allegedly export loops and drummer tracks from garageband into midi files for use in 
 other programs. This appears to no longer be the case, and midi data is instead embedded in the metadata of the loop
